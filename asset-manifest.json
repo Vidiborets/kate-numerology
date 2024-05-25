@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kate-numerology/static/css/main.f88910cf.css",
-    "main.js": "/kate-numerology/static/js/main.5c8b60ad.js",
+    "main.css": "/kate-numerology/static/css/main.29c79243.css",
+    "main.js": "/kate-numerology/static/js/main.b2fee8f3.js",
     "index.html": "/kate-numerology/index.html",
-    "main.f88910cf.css.map": "/kate-numerology/static/css/main.f88910cf.css.map",
-    "main.5c8b60ad.js.map": "/kate-numerology/static/js/main.5c8b60ad.js.map"
+    "main.29c79243.css.map": "/kate-numerology/static/css/main.29c79243.css.map",
+    "main.b2fee8f3.js.map": "/kate-numerology/static/js/main.b2fee8f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f88910cf.css",
-    "static/js/main.5c8b60ad.js"
+    "static/css/main.29c79243.css",
+    "static/js/main.b2fee8f3.js"
   ]
 }
